@@ -1,4 +1,5 @@
 #include <iostream>
+//½Ç½À1
 class LetDebug
 {
 public:
