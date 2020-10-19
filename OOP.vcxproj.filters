@@ -13,6 +13,18 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\3주차">
+      <UniqueIdentifier>{bc2592c7-0dd4-4daf-b7f7-f9677c928f2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4주차">
+      <UniqueIdentifier>{e5ee5f4c-8552-4e62-9f56-a99fbe89de08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5주차">
+      <UniqueIdentifier>{ce0fd361-9973-4f31-a90c-890df7ada58f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6주차">
+      <UniqueIdentifier>{ae4eb098-da19-47c3-aeb7-a7d7c807b86e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1주차.cpp">
@@ -20,6 +32,69 @@
     </ClCompile>
     <ClCompile Include="bugTest.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prac3-1.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac3-3.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac3-3.2.c">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac3-4.cpp">
+      <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-1.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-2.c">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-3.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-4.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-5.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-6.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4-7.cpp">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac5-1.cpp">
+      <Filter>소스 파일\5주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac5-2.cpp">
+      <Filter>소스 파일\5주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac5-5.cpp">
+      <Filter>소스 파일\5주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac5-6.cpp">
+      <Filter>소스 파일\5주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac5-4.cpp">
+      <Filter>소스 파일\5주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac5-3.cpp">
+      <Filter>소스 파일\5주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac6-1.cpp">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac6-2.cpp">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac6-3.cpp">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac6-4.cpp">
+      <Filter>소스 파일\6주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
