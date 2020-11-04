@@ -25,6 +25,12 @@
     <Filter Include="소스 파일\6주차">
       <UniqueIdentifier>{ae4eb098-da19-47c3-aeb7-a7d7c807b86e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\8주차">
+      <UniqueIdentifier>{698f87d6-9f1b-4c75-8aea-a196f74a5fa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10주차">
+      <UniqueIdentifier>{e2776d5a-427f-4285-9d3f-36b7776aabd2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1주차.cpp">
@@ -95,6 +101,33 @@
     </ClCompile>
     <ClCompile Include="prac6-4.cpp">
       <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac8-1.cpp">
+      <Filter>소스 파일\8주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac8-2.cpp">
+      <Filter>소스 파일\8주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac8-3.cpp">
+      <Filter>소스 파일\8주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac10-1cpp.cpp">
+      <Filter>소스 파일\10주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac10-2.cpp">
+      <Filter>소스 파일\10주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac10-3.cpp">
+      <Filter>소스 파일\10주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac10-4.cpp">
+      <Filter>소스 파일\10주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac10-4.2.cpp">
+      <Filter>소스 파일\10주차</Filter>
+    </ClCompile>
+    <ClCompile Include="prac10-5.cpp">
+      <Filter>소스 파일\10주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
