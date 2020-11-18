@@ -7,7 +7,7 @@ protected:
 	int age; 
 public: 
 	Employee(std::string name, int age) : name(name), age(age) {}
-	void showInfo() { 
+	virtual void showInfo() { 
 		std::cout << "Name:" << name << ", Age: " << age << std::endl; 
 	} 
 }; 
