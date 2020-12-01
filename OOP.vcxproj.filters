@@ -34,6 +34,12 @@
     <Filter Include="소스 파일\12주차">
       <UniqueIdentifier>{0317c764-a6db-47ca-94a3-2d12bff742c6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\13주차">
+      <UniqueIdentifier>{ff0bf991-d846-4c05-8f29-a303a9bd16d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\14주차">
+      <UniqueIdentifier>{a00770a5-c9e7-41e6-8013-3a6bacb488fa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1주차.cpp">
@@ -146,6 +152,42 @@
     </ClCompile>
     <ClCompile Include="prac12_4.cpp">
       <Filter>소스 파일\12주차</Filter>
+    </ClCompile>
+    <ClCompile Include="실습1.cpp">
+      <Filter>소스 파일\13주차</Filter>
+    </ClCompile>
+    <ClCompile Include="실습1.1.cpp">
+      <Filter>소스 파일\13주차</Filter>
+    </ClCompile>
+    <ClCompile Include="실습2.cpp">
+      <Filter>소스 파일\13주차</Filter>
+    </ClCompile>
+    <ClCompile Include="실습3.cpp">
+      <Filter>소스 파일\13주차</Filter>
+    </ClCompile>
+    <ClCompile Include="실습14_1.cpp">
+      <Filter>소스 파일\14주차</Filter>
+    </ClCompile>
+    <ClCompile Include="14_1_2.cpp">
+      <Filter>소스 파일\14주차</Filter>
+    </ClCompile>
+    <ClCompile Include="14_2_1.cpp">
+      <Filter>소스 파일\14주차</Filter>
+    </ClCompile>
+    <ClCompile Include="14_2_2.cpp">
+      <Filter>소스 파일\14주차</Filter>
+    </ClCompile>
+    <ClCompile Include="14_3_1.cpp">
+      <Filter>소스 파일\14주차</Filter>
+    </ClCompile>
+    <ClCompile Include="14_4.cpp">
+      <Filter>소스 파일\14주차</Filter>
+    </ClCompile>
+    <ClCompile Include="14_5.cpp">
+      <Filter>소스 파일\14주차</Filter>
+    </ClCompile>
+    <ClCompile Include="14_6.cpp">
+      <Filter>소스 파일\14주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
